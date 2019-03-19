@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2018 by original authors @ fontello.com</metadata>
+<defs>
+<font id="lucidweb" horiz-adv-x="1000" >
+<font-face font-family="lucidweb" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="enter-vr" unicode="&#xe800;" d="M1239 64c-159 0-288 133-288 297s129 297 288 297 287-133 287-297-128-297-287-297z m-1050 297c0 164 129 297 288 297s288-133 288-297-129-297-288-297-288 133-288 297z m3 489c-111 0-192-87-192-202v-580c0-115 81-218 192-218h511c15 0 29 13 38 26l81 141a56 56 0 0 0 88 2l81-144c9-13 23-25 38-25h510c112 0 195 103 195 217v581c0 115-83 202-194 202h-1348z" horiz-adv-x="1734" />
+</font>
+</defs>
+</svg>
